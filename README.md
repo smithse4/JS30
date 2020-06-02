@@ -8,3 +8,9 @@ This tutorial adds the functionality to a pre-styled drum kit. It uses an event 
 
 ![Drum Kit](./img/01-drumkit.png)
 
+## 02-Clock
+
+This tutorial adds the functionality to a pre-styled clock. It uses CSS transform rotate and transitions, a JavaScript transform function, and Javascript setInterval to animate the clock.
+
+![Clock](./img/02-clock.png)
+
