@@ -14,3 +14,9 @@ This tutorial adds the functionality to a pre-styled clock. It uses CSS transfor
 
 ![Clock](./img/02-clock.png)
 
+## 02-Clock
+
+This tutorial uses CSS variables and javascript to allow range sliders to adjust image.
+
+![CSS Variables](./img/03-css-variables.png)
+
